@@ -6,7 +6,6 @@ import socket
 quotes = ["“The elevator to success is out of order. You will have to use the stairs, one step at a time.” \t — Joe Girard",
           "“Be a positive energy trampoline, absorb what you need and rebound more back.” \t — Dave Carolan",
           "“People often say that motivation does not last. Well, neither does bathing, that is why we recommend it daily.” \t — Zig Ziglar",
-          "“People say nothing is impossible, but I do nothing every day.” \t — Winnie the Pooh",
           "“Just one small positive thought in the morning can change your whole day.” \t — Dalai Lama",
           "“I did rather regret the things I have done than regret the things I have not done.” \t —Lucille Ball",
           "“If you believe something needs to exist, if it is something you want to use yourself, do not let anyone ever stop you from doing it.” \t —Tobias Lütke",
